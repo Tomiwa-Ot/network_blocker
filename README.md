@@ -5,7 +5,7 @@
 <br />
 
 ## Demo
-[![Tutorial Video](https://img.youtube.com/vi/uoc7dNX7giU/0.jpg)](https://youtu.be/uoc7dNX7giU)
+[![Tutorial Video](https://thumbnails.odycdn.com/optimize/s:390:220/quality:85/plain/https://thumbs.odycdn.com/7814f43a0d11af728f3b6e5d06c201f5.webp)](https://odysee.com/@tomiwa:4/ARP-Spoofing-to-Block-Internet-Connection-%28PoC%29:4)
 
 [![Version](https://img.shields.io/badge/version-1.5.2-blue)](https://github.com/fakuventuri/network_blocker)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://github.com/fakuventuri/network_blocker/blob/main/LICENSE)
